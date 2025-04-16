@@ -2,7 +2,7 @@ import React, { lazy, Suspense } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import { HelmetProvider } from 'react-helmet-async';
 import styled from 'styled-components';
-import GlobalStyles from './styles/GlobalStyles';
+import { GlobalStyles } from './styles/GlobalStyles';
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
 
