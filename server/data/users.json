@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Admin User",
+    "email": "admin@3dprintshop.com",
+    "password": "123456",
+    "isAdmin": true
+  },
+  {
+    "name": "Test User",
+    "email": "user@example.com",
+    "password": "123456",
+    "isAdmin": false
+  }
+]

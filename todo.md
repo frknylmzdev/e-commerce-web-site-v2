@@ -1,0 +1,44 @@
+# 3D Baskı E-Ticaret Sitesi Yapım Süreci
+
+## Görevler
+
+- [x] Proje gereksinimlerini analiz et
+- [x] Proje klasör yapısını oluştur
+- [x] Web sitesi yapısını ve kullanıcı arayüzünü tasarla
+  - [x] Ana sayfa tasarımı
+  - [x] Ürün listeleme sayfası tasarımı
+  - [x] Ürün detay sayfası tasarımı
+  - [x] Sepet ve ödeme sayfası tasarımı
+  - [x] Kullanıcı profil sayfası tasarımı
+  - [x] Admin panel tasarımı
+- [x] Frontend bileşenlerini uygula
+  - [x] React bileşenlerini oluştur
+  - [x] Sayfa yönlendirmelerini ayarla
+  - [x] Responsive tasarımı uygula
+  - [x] Kullanıcı etkileşimlerini ekle
+- [x] Backend işlevselliğini uygula
+  - [x] API endpoint'lerini oluştur
+  - [x] Veritabanı bağlantısını kur
+  - [x] Kullanıcı kimlik doğrulama sistemini ekle
+  - [x] Ödeme sistemini entegre et
+- [x] Ürün veritabanı ve görselleri oluştur
+  - [x] 3D yazıcı ürünleri ekle
+  - [x] Filament ürünleri ekle
+  - [x] 3D baskı ürünleri ekle
+  - [x] 3D model ürünleri ekle
+  - [x] Ürün görselleri bul ve ekle
+- [x] Admin panelini uygula
+  - [x] Ürün yönetimi ekle
+  - [x] Sipariş yönetimi ekle
+  - [x] Kullanıcı yönetimi ekle
+  - [x] İstatistik paneli ekle
+- [x] Web sitesini test et ve optimize et
+  - [x] Performans optimizasyonu yap
+  - [x] Responsive tasarımı test et
+  - [x] Kullanıcı deneyimini test et
+  - [x] Güvenlik kontrollerini yap
+- [x] Dokümantasyon ve GitHub dosyalarını hazırla
+  - [x] README.md dosyasını oluştur
+  - [x] Kurulum talimatlarını ekle
+  - [x] Proje özelliklerini belgele
+  - [x] Lisans dosyası ekle

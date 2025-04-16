@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Creality Ender 3 V2 3D Yazıcı",
+    "description": "Yüksek hassasiyetli, kullanımı kolay 3D yazıcı. Başlangıç seviyesi için ideal. Yeni başlayanlar için mükemmel bir seçim olan bu yazıcı, kullanıcı dostu arayüzü ve güvenilir baskı kalitesiyle öne çıkar. Sessiz çalışma özelliği ve dayanıklı yapısıyla uzun süreli kullanım için tasarlanmıştır.",
+    "category": "3D Yazıcılar",
+    "price": 4999.99,
+    "oldPrice": 5499.99,
+    "image": "/images/3d-printer-real.jpg",
+    "countInStock": 15,
+    "rating": 4.5,
+    "reviewCount": 128,
+    "isNew": true,
+    "onSale": true,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Baskı Teknolojisi",
+        "value": "FDM (Fused Deposition Modeling)"
+      },
+      {
+        "name": "Baskı Hacmi",
+        "value": "220 x 220 x 250 mm"
+      },
+      {
+        "name": "Nozul Çapı",
+        "value": "0.4 mm"
+      },
+      {
+        "name": "Baskı Hassasiyeti",
+        "value": "±0.1 mm"
+      },
+      {
+        "name": "Baskı Hızı",
+        "value": "100 mm/s"
+      },
+      {
+        "name": "Filament Çapı",
+        "value": "1.75 mm"
+      },
+      {
+        "name": "Desteklenen Filamentler",
+        "value": "PLA, ABS, PETG, TPU"
+      }
+    ]
+  },
+  {
+    "name": "Anycubic Photon Mono X 3D Yazıcı",
+    "description": "Yüksek çözünürlüklü reçine 3D yazıcı, detaylı modeller için ideal. Profesyonel kalitede baskılar için tasarlanmış bu yazıcı, büyük baskı hacmi ve hızlı baskı özellikleriyle dikkat çeker. Mücevher tasarımı, diş hekimliği ve minyatür modelleme gibi yüksek detay gerektiren uygulamalar için mükemmeldir.",
+    "category": "3D Yazıcılar",
+    "price": 8999.99,
+    "oldPrice": 9999.99,
+    "image": "/images/3d-printer-real.jpg",
+    "countInStock": 8,
+    "rating": 5,
+    "reviewCount": 64,
+    "isNew": false,
+    "onSale": true,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Baskı Teknolojisi",
+        "value": "MSLA (Masked Stereolithography)"
+      },
+      {
+        "name": "Baskı Hacmi",
+        "value": "192 x 120 x 245 mm"
+      },
+      {
+        "name": "XY Çözünürlük",
+        "value": "0.05 mm"
+      },
+      {
+        "name": "Z Ekseni Çözünürlüğü",
+        "value": "0.01 mm"
+      },
+      {
+        "name": "Baskı Hızı",
+        "value": "60 mm/saat"
+      },
+      {
+        "name": "Ekran",
+        "value": "8.9 inç Monokrom LCD"
+      },
+      {
+        "name": "Desteklenen Reçineler",
+        "value": "405nm UV Reçine"
+      }
+    ]
+  },
+  {
+    "name": "Prusa i3 MK3S+ 3D Yazıcı",
+    "description": "Endüstri standardı haline gelmiş güvenilir ve yüksek kaliteli 3D yazıcı. Açık kaynak kodlu tasarımı ve geniş topluluk desteğiyle bilinen bu yazıcı, profesyonel kullanıcılar için ideal bir seçimdir. Otomatik yatak seviyeleme ve filament sensörü gibi akıllı özellikleriyle sorunsuz bir baskı deneyimi sunar.",
+    "category": "3D Yazıcılar",
+    "price": 12499.99,
+    "oldPrice": null,
+    "image": "/images/3d-printer-real.jpg",
+    "countInStock": 5,
+    "rating": 4.9,
+    "reviewCount": 92,
+    "isNew": false,
+    "onSale": false,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Baskı Teknolojisi",
+        "value": "FDM (Fused Deposition Modeling)"
+      },
+      {
+        "name": "Baskı Hacmi",
+        "value": "250 x 210 x 210 mm"
+      },
+      {
+        "name": "Nozul Çapı",
+        "value": "0.4 mm (değiştirilebilir)"
+      },
+      {
+        "name": "Baskı Hassasiyeti",
+        "value": "±0.05 mm"
+      },
+      {
+        "name": "Baskı Hızı",
+        "value": "200 mm/s"
+      },
+      {
+        "name": "Filament Çapı",
+        "value": "1.75 mm"
+      },
+      {
+        "name": "Desteklenen Filamentler",
+        "value": "PLA, ABS, PETG, TPU, PC, Nylon, Kompozit"
+      }
+    ]
+  },
+  {
+    "name": "Flashforge Adventurer 3 3D Yazıcı",
+    "description": "Kompakt ve kullanıcı dostu tasarımıyla eğitim kurumları ve ev kullanımı için ideal 3D yazıcı. Kapalı baskı alanı ve kolay kullanım özellikleriyle öne çıkan bu yazıcı, özellikle yeni başlayanlar ve eğitim ortamları için tasarlanmıştır. Wi-Fi bağlantısı ve bulut tabanlı baskı yönetimi ile uzaktan kontrol imkanı sunar.",
+    "category": "3D Yazıcılar",
+    "price": 6499.99,
+    "oldPrice": 6999.99,
+    "image": "/images/3d-printer-real.jpg",
+    "countInStock": 12,
+    "rating": 4.3,
+    "reviewCount": 47,
+    "isNew": true,
+    "onSale": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Baskı Teknolojisi",
+        "value": "FDM (Fused Deposition Modeling)"
+      },
+      {
+        "name": "Baskı Hacmi",
+        "value": "150 x 150 x 150 mm"
+      },
+      {
+        "name": "Nozul Çapı",
+        "value": "0.4 mm"
+      },
+      {
+        "name": "Baskı Hassasiyeti",
+        "value": "±0.1 mm"
+      },
+      {
+        "name": "Baskı Hızı",
+        "value": "100 mm/s"
+      },
+      {
+        "name": "Filament Çapı",
+        "value": "1.75 mm"
+      },
+      {
+        "name": "Desteklenen Filamentler",
+        "value": "PLA, ABS, PETG"
+      }
+    ]
+  },
+  {
+    "name": "PLA+ Filament 1.75mm 1kg - Beyaz",
+    "description": "Yüksek kaliteli PLA+ filament, canlı renkler ve pürüzsüz baskı için. Standart PLA'dan daha dayanıklı ve daha az kırılgan olan bu filament, geniş bir sıcaklık aralığında çalışır. Düşük çekme ve yüksek boyutsal kararlılık özellikleriyle detaylı modeller için idealdir.",
+    "category": "Filamentler",
+    "price": 349.99,
+    "oldPrice": null,
+    "image": "/images/3d-printer-real.jpg",
+    "countInStock": 50,
+    "rating": 5,
+    "reviewCount": 86,
+    "isNew": false,
+    "onSale": false,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Malzeme",
+        "value": "PLA+ (Polilaktik Asit Plus)"
+      },
+      {
+        "name": "Çap",
+        "value": "1.75 mm ±0.03 mm"
+      },
+      {
+        "name": "Ağırlık",
+        "value": "1 kg"
+      },
+      {
+        "name": "Önerilen Nozul Sıcaklığı",
+        "value": "205-225°C"
+      },
+      {
+        "name": "Önerilen Tabla Sıcaklığı",
+        "value": "60-80°C"
+      },
+      {
+        "name": "Renk",
+        "value": "Beyaz"
+      }
+    ]
+  },
+  {
+    "name": "ABS Filament 1.75mm 1kg - Siyah",
+    "description": "Dayanıklı ABS filament, fonksiyonel parçalar için ideal. Yüksek darbe direnci ve ısıya dayanıklılık özellikleriyle mekanik parçalar ve dayanıklı prototipleme için mükemmeldir. Profesyonel kullanıcılar için tasarlanmış bu filament, tutarlı baskı kalitesi sunar.",
+    "category": "Filamentler",
+    "price": 399.99,
+    "oldPrice": null,
+    "image": "/images/3d-printer-real.jpg",
+    "countInStock": 35,
+    "rating": 4,
+    "reviewCount": 52,
+    "isNew": false,
+    "onSale": false,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Malzeme",
+        "value": "ABS (Akrilonitril Bütadien Stiren)"
+      },
+      {
+        "name": "Çap",
+        "value": "1.75 mm ±0.03 mm"
+      },
+      {
+        "name": "Ağırlık",
+        "value": "1 kg"
+      },
+      {
+        "name": "Önerilen Nozul Sıcaklığı",
+        "value": "230-250°C"
+      },
+      {
+        "name": "Önerilen Tabla Sıcaklığı",
+        "value": "95-110°C"
+      },
+      {
+        "name": "Renk",
+        "value": "Siyah"
+      }
+    ]
+  },
+  {
+    "name": "PETG Filament 1.75mm 1kg - Şeffaf Mavi",
+    "description": "Dayanıklılık ve esnekliği birleştiren PETG filament, su geçirmez parçalar için ideal. ABS'nin dayanıklılığı ile PLA'nın kullanım kolaylığını birleştiren bu filament, mekanik parçalar, fonksiyonel prototipleme ve su geçirmez uygulamalar için mükemmeldir.",
+    "category": "Filamentler",
+    "price": 429.99,
+    "oldPrice": 479.99,
+    "image": "/images/3d-printer-real.jpg",
+    "countInStock": 28,
+    "rating": 4.7,
+    "reviewCount": 39,
+    "isNew": false,
+    "onSale": true,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Malzeme",
+        "value": "PETG (Polietilen Tereftalat Glikol)"
+      },
+      {
+        "name": "Çap",
+        "value": "1.75 mm ±0.03 mm"
+      },
+      {
+        "name": "Ağırlık",
+        "value": "1 kg"
+      },
+      {
+        "name": "Önerilen Nozul Sıcaklığı",
+        "value": "230-250°C"
+      },
+      {
+        "name": "Önerilen Tabla Sıcaklığı",
+        "value": "70-90°C"
+      },
+      {
+        "name": "Renk",
+        "value": "Şeffaf Mavi"
+      }
+    ]
+  },
+  {
+    "name": "TPU Filament 1.75mm 500g - Esnek Siyah",
+    "description": "Esnek ve dayanıklı TPU filament, lastik benzeri parçalar için mükemmel. Yüksek esneklik ve aşınma direnci sunan bu filament, koruyucu kılıflar, contalar, tekerlekler ve esnek mekanizmalar gibi uygulamalar için idealdir.",
+    "category": "Filamentler",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "image": "/images/3d-printer-real.jpg",
+    "countInStock": 20,
+    "rating": 4.5,
+    "reviewCount": 28,
+    "isNew": true,
+    "onSale": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Malzeme",
+        "value": "TPU (Termoplastik Poliüretan)"
+      },
+      {
+        "name": "Çap",
+        "value": "1.75 mm ±0.05 mm"
+      },
+      {
+        "name": "Ağırlık",
+        "value": "500 g"
+      },
+      {
+        "name": "Önerilen Nozul Sıcaklığı",
+        "value": "220-235°C"
+      },
+      {
+        "name": "Önerilen Tabla Sıcaklığı",
+        "value": "50-60°C"
+      },
+      {
+        "name": "Shore Sertliği",
+        "value": "95A"
+      },
+      {
+        "name": "Renk",
+        "value": "Siyah"
+      }
+    ]
+  },
+  {
+    "name": "Bugatti Veyron 3D Model",
+    "description": "Yüksek detaylı Bugatti Veyron 3D modeli, baskıya hazır STL dosyası. Otomobil tutkunları ve koleksiyoncular için tasarlanmış bu model, gerçeğine sadık kalınarak modellenmiştir. Hem hobi hem de sergileme amaçlı kullanım için uygundur.",
+    "category": "3D Modeller",
+    "price": 129.99,
+    "oldPrice": 199.99,
+    "image": "/images/3d-model-car.png",
+    "countInStock": 999,
+    "rating": 4,
+    "reviewCount": 42,
+    "isNew": false,
+    "onSale": true,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Dosya Formatları",
+        "value": "STL, OBJ"
+      },
+      {
+        "name": "Poligon Sayısı",
+        "value": "1.2 milyon"
+      },
+      {
+        "name": "Ölçek",
+        "value": "1:24"
+      },
+      {
+        "name": "Önerilen Baskı Ayarları",
+        "value": "0.1-0.2mm katman yüksekliği, %15-20 dolgu"
+      },
+      {
+        "name": "Önerilen Malzeme",
+        "value": "PLA, PETG"
+      },
+      {
+        "name": "Lisans",
+        "value": "Kişisel kullanım için"
+      }
+    ]
+  },
+  {
+    "name": "Anatomik Kalp 3D Model",
+    "description": "Detaylı anatomik kalp 3D modeli, eğitim amaçlı kullanım için. Tıp öğrencileri, eğitimciler ve sağlık profesyonelleri için tasarlanmış bu model, kalbin iç ve dış yapılarını detaylı olarak gösterir. Eğitim materyali veya görsel yardımcı olarak kullanılabilir.",
+    "category": "3D Modeller",
+    "price": 179.99,
+    "oldPrice": null,
+    "image": "/images/3d-model-car.png",
+    "countInStock": 999,
+    "rating": 5,
+    "reviewCount": 23,
+    "isNew": true,
+    "onSale": false,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Dosya Formatları",
+        "value": "STL, OBJ, 3MF"
+      },
+      {
+        "name": "Poligon Sayısı",
+        "value": "850 bin"
+      },
+      {
+        "name": "Ölçek",
+        "value": "1:1"
+      },
+      {
+        "name": "Parça Sayısı",
+        "value": "8 (ayrılabilir)"
+      },
+      {
+        "name": "Önerilen Baskı Ayarları",
+        "value": "0.1mm katman yüksekliği, %20 dolgu"
+      },
+      {
+        "name": "Önerilen Malzeme",
+        "value": "PLA (çoklu renk)"
+      },
+      {
+        "name": "Lisans",
+        "value": "Eğitim amaçlı kullanım için"
+      }
+    ]
+  },
+  {
+    "name": "Ejderha Heykeli 3D Model",
+    "description": "Fantastik detaylara sahip ejderha heykeli 3D modeli. Fantezi tutkunları ve koleksiyoncular için tasarlanmış bu model, masaüstü oyunları, dekorasyon veya koleksiyon parçası olarak kullanılabilir. Yüksek detaylı pullar, kanatlar ve yüz ifadesi ile etkileyici bir görünüme sahiptir.",
+    "category": "3D Modeller",
+    "price": 149.99,
+    "oldPrice": 189.99,
+    "image": "/images/3d-model-car.png",
+    "countInStock": 999,
+    "rating": 4.8,
+    "reviewCount": 56,
+    "isNew": false,
+    "onSale": true,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Dosya Formatları",
+        "value": "STL, OBJ"
+      },
+      {
+        "name": "Poligon Sayısı",
+        "value": "2.5 milyon"
+      },
+      {
+        "name": "Boyutlar",
+        "value": "15cm x 20cm x 25cm"
+      },
+      {
+        "name": "Önerilen Baskı Ayarları",
+        "value": "0.05-0.1mm katman yüksekliği, %15 dolgu"
+      },
+      {
+        "name": "Önerilen Malzeme",
+        "value": "PLA, Reçine"
+      },
+      {
+        "name": "Destek Gereksinimleri",
+        "value": "Evet, kanatlar ve kuyruk için"
+      },
+      {
+        "name": "Lisans",
+        "value": "Kişisel kullanım için"
+      }
+    ]
+  },
+  {
+    "name": "Mimari Köprü Modeli 3D Model",
+    "description": "Detaylı mimari köprü modeli, mühendislik ve mimarlık öğrencileri için ideal. Köprü mühendisliği ve mimari tasarım prensiplerini gösteren bu model, eğitim amaçlı kullanım veya sergileme için uygundur. Farklı köprü bileşenlerini ve yapısal elemanları detaylı olarak gösterir.",
+    "category": "3D Modeller",
+    "price": 159.99,
+    "oldPrice": null,
+    "image": "/images/3d-model-car.png",
+    "countInStock": 999,
+    "rating": 4.6,
+    "reviewCount": 19,
+    "isNew": true,
+    "onSale": false,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Dosya Formatları",
+        "value": "STL, OBJ, STEP"
+      },
+      {
+        "name": "Poligon Sayısı",
+        "value": "1.8 milyon"
+      },
+      {
+        "name": "Ölçek",
+        "value": "1:100"
+      },
+      {
+        "name": "Parça Sayısı",
+        "value": "15 (montaj gerektiren)"
+      },
+      {
+        "name": "Önerilen Baskı Ayarları",
+        "value": "0.1-0.15mm katman yüksekliği, %20 dolgu"
+      },
+      {
+        "name": "Önerilen Malzeme",
+        "value": "PLA, PETG"
+      },
+      {
+        "name": "Lisans",
+        "value": "Eğitim ve kişisel kullanım için"
+      }
+    ]
+  },
+  {
+    "name": "Özel Tasarım Dekoratif Vazo",
+    "description": "Özel tasarım, yüksek kaliteli PLA ile basılmış dekoratif vazo. Modern ve organik formlarla tasarlanmış bu vazo, evinize veya ofisinize şık bir dokunuş katacak. Her biri el yapımı olan bu vazolar, dayanıklı ve su geçirmez kaplama ile işlenmiştir.",
+    "category": "3D Baskı Ürünler",
+    "price": 249.99,
+    "oldPrice": null,
+    "image": "/images/3d-printer-with-product.jpg",
+    "countInStock": 18,
+    "rating": 4.5,
+    "reviewCount": 18,
+    "isNew": true,
+    "onSale": false,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Malzeme",
+        "value": "PLA (Polilaktik Asit)"
+      },
+      {
+        "name": "Boyutlar",
+        "value": "15cm x 15cm x 25cm"
+      },
+      {
+        "name": "Ağırlık",
+        "value": "350g"
+      },
+      {
+        "name": "Renk",
+        "value": "Mermer Beyaz"
+      },
+      {
+        "name": "Su Geçirmezlik",
+        "value": "Evet, epoksi kaplama"
+      },
+      {
+        "name": "Bakım",
+        "value": "Nemli bezle silinebilir, suya daldırmayın"
+      }
+    ]
+  },
+  {
+    "name": "LED Lamba Tabanı",
+    "description": "Özel tasarım LED lamba tabanı, RGB LED ile birlikte gelir. Modern ve minimalist tasarımıyla her dekorasyona uyum sağlayan bu lamba tabanı, uzaktan kumanda ile 16 farklı renk ve 4 farklı ışık modu sunar. USB şarj edilebilir batarya ile kablosuz kullanım imkanı sağlar.",
+    "category": "3D Baskı Ürünler",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "image": "/images/3d-printer-with-product.jpg",
+    "countInStock": 12,
+    "rating": 4.5,
+    "reviewCount": 37,
+    "isNew": false,
+    "onSale": true,
+    "featured": true,
+    "specifications": [
+      {
+        "name": "Malzeme",
+        "value": "PETG (Polietilen Tereftalat Glikol)"
+      },
+      {
+        "name": "Boyutlar",
+        "value": "12cm x 12cm x 8cm"
+      },
+      {
+        "name": "LED Tipi",
+        "value": "RGB, 5W"
+      },
+      {
+        "name": "Güç Kaynağı",
+        "value": "USB-C, 5V 2A"
+      },
+      {
+        "name": "Batarya",
+        "value": "2000mAh Li-ion, 8 saat kullanım"
+      },
+      {
+        "name": "Kontrol",
+        "value": "Uzaktan kumanda veya dokunmatik"
+      },
+      {
+        "name": "Renk Seçenekleri",
+        "value": "16 farklı renk, 4 mod"
+      }
+    ]
+  },
+  {
+    "name": "Masaüstü Organizer Set",
+    "description": "Özelleştirilebilir masaüstü organizer seti, ofis ve ev kullanımı için ideal. Modüler tasarımı sayesinde ihtiyaçlarınıza göre düzenlenebilen bu set, kalem tutucu, not kağıdı tutucu, telefon standı ve küçük eşya bölmelerinden oluşur. Dayanıklı ve şık tasarımıyla çalışma alanınızı düzenli tutar.",
+    "category": "3D Baskı Ürünler",
+    "price": 199.99,
+    "oldPrice": 249.99,
+    "image": "/images/3d-printer-with-product.jpg",
+    "countInStock": 25,
+    "rating": 4.7,
+    "reviewCount": 42,
+    "isNew": false,
+    "onSale": true,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Malzeme",
+        "value": "PLA+ (Polilaktik Asit Plus)"
+      },
+      {
+        "name": "Parça Sayısı",
+        "value": "5 modül"
+      },
+      {
+        "name": "Toplam Boyut",
+        "value": "30cm x 15cm x 10cm"
+      },
+      {
+        "name": "Ağırlık",
+        "value": "450g"
+      },
+      {
+        "name": "Renk Seçenekleri",
+        "value": "Siyah, Beyaz, Gri"
+      },
+      {
+        "name": "Özellikler",
+        "value": "Modüler, mıknatıslı bağlantı"
+      }
+    ]
+  },
+  {
+    "name": "Akustik Telefon Amplifikatörü",
+    "description": "Elektrik gerektirmeyen akustik telefon amplifikatörü, sesin doğal olarak yükseltilmesini sağlar. Özel akustik tasarımı sayesinde telefonunuzun hoparlör sesini %200'e kadar artıran bu ürün, pil veya elektrik gerektirmez. Kompakt ve taşınabilir yapısıyla seyahatlerinizde de kullanabilirsiniz.",
+    "category": "3D Baskı Ürünler",
+    "price": 149.99,
+    "oldPrice": null,
+    "image": "/images/3d-printer-with-product.jpg",
+    "countInStock": 30,
+    "rating": 4.2,
+    "reviewCount": 28,
+    "isNew": true,
+    "onSale": false,
+    "featured": false,
+    "specifications": [
+      {
+        "name": "Malzeme",
+        "value": "PLA (Polilaktik Asit)"
+      },
+      {
+        "name": "Boyutlar",
+        "value": "15cm x 8cm x 10cm"
+      },
+      {
+        "name": "Ağırlık",
+        "value": "120g"
+      },
+      {
+        "name": "Ses Artışı",
+        "value": "%150-200"
+      },
+      {
+        "name": "Uyumlu Telefonlar",
+        "value": "Tüm akıllı telefonlar"
+      },
+      {
+        "name": "Güç Gereksinimi",
+        "value": "Yok (pasif amplifikasyon)"
+      },
+      {
+        "name": "Renk Seçenekleri",
+        "value": "Siyah, Beyaz, Mavi, Kırmızı"
+      }
+    ]
+  }
+]
